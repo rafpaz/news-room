@@ -1,0 +1,245 @@
+{
+  "issues": [
+    {
+      "id": 1,
+      "name": "29.05.2018",
+      "publicationTime": "2018-05-29T06:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "name": "30.05.2018",
+      "publicationTime": "2018-05-30T06:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "name": "31.05.2018",
+      "publicationTime": "2018-05-31T06:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "name": "01.06.2018",
+      "publicationTime": "2018-06-01T06:00:00.000Z"
+    },
+    {
+      "id": 5,
+      "name": "04.06.2018",
+      "publicationTime": "2018-06-04T06:00:00.000Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "SWISS"
+    },
+    {
+      "id": 2,
+      "name": "Lufthansa Group"
+    },
+    {
+      "id": 3,
+      "name": "Aviation Industry"
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "title": "Sorgen wegen Handelsstreits: Airlines senken ihre Gewinnprognosen um zwölf Prozent",
+      "text": "Auch die Lufthansa rechnet in diesem Jahr mit einem sinkenden operativen Ergebnis. Konzernchef Carsten Spohr …",
+      "sourceName": "Handelsblatt.com",
+      "publicationTime": "2018-06-04T11:23:00.000Z",
+      "URL": "http://www.handelsblatt.com/unternehmen/handel-konsumgueter/sorgen-wegen-handelsstreits-airlines-senken-ihre-gewinnprognosen-um-zwoelf-prozent/22637298.html",
+      "categoryID": 1,
+      "issueID": 5
+    },
+    {
+      "id": 3,
+      "title": "Stromausfall in Hamburg: Schadhaftes Kupferkabel legte Flughafen lahm",
+      "text": "Die Ursache für den Stromausfall am Hamburger Flughafen ist gefunden. Eine schadhaftes Kupferkabel f …",
+      "sourceName": "Süddeutsche Zeitung Online",
+      "publicationTime": "2018-06-04T14:54:00.000Z",
+      "URL": "http://www.sueddeutsche.de/panorama/stromausfall-in-hamburg-schadhaftes-kupferkabel-legte-flughafen-lahm-1.4001408?source=rss",
+      "categoryID": 2,
+      "issueID": 5
+    },
+    {
+      "id": 4,
+      "title": "Le supersonique d'affaires Aerion volera en 2023",
+      "text": "«L'avion du futur volera à Mach 2,5, à l'hydrogène liquide et au Dom Pérignon», annonçait une publicité … Présent depuis plusieurs années au Salon d'aviation EBACE à Cointrin, Aerion a annoncé pour la première fois du concret. À savoir que l'Aerion as2 bénéficie de l'arrivée …",
+      "sourceName": "Tribune de Genève Online",
+      "publicationTime": "2018-06-04T10:04:00.000Z",
+      "URL": "https://www.tdg.ch/economie/entreprises/Le-supersonique-d-affaires-Aerion-volera-en-2023/story/18427299",
+      "categoryID": 3,
+      "issueID": 5
+    },
+    {
+      "id": 5,
+      "title": "Germania Schweiz bietet neuen Service für Fahrt zum Flughafen",
+      "text": "Mit dem Start des Sommerflugplans 2018 hat Germania Schweiz ein neues Angebot ins Portfolio aufgenommen: «Drive & Fly». Passagiere der Airline können im An- schluss an die Flugbuchung zu günstigen Konditionen einen Hertz-Mietwagen von Zuhause bis zum Flughafen Zürich und retour dazu buchen. Damit entfallen teure Übernachtungen und Parkgebühren am …",
+      "sourceName": "aeroTELEGRAPH.com",
+      "publicationTime": "2018-06-03T13:53:00.000Z",
+      "URL": "https://www.aerotelegraph.com/germania-schweiz-bietet-neuen-service-fuer-fahrt-zum-flughafen",
+      "categoryID": 3,
+      "issueID": 5
+    },
+    {
+      "id": 6,
+      "title": "Vols en retard à Cointrin: les créneaux à éviter",
+      "text": "D’après nos calculs, un vol sur huit a été en retard à du 1er septembre 2017 au 15 mai 2018. Les deux …",
+      "sourceName": "24heures.ch",
+      "publicationTime": "2018-06-04T04:53:00.000Z",
+      "URL": "https://www.24heures.ch/vaud-regions/Vols-en-retard-a-Cointrin-les-creneaux-a-eviter/story/28067407",
+      "categoryID": 3,
+      "issueID": 5
+    },
+    {
+      "id": 7,
+      "title": "Laudamotion: Wachstum wichtiger als Gewinn",
+      "text": "Ryanair-Chef Michael O’Leary erwartet, dass Laudamotion erst im Jahr 2020 einen kleinen Gewinn machen … Ein weiteres Problem sei, dass Laudamotion bei der deutschen AUA-Mutter Lufthansa die nächsten zwei Jahre sehr hohe Leasingraten für die Airbus-Flotte habe.\n\nEs könnte sein, dass …",
+      "sourceName": "aboutTravel.ch",
+      "publicationTime": "2018-05-31T07:01:00.000Z",
+      "URL": "https://abouttravel.ch/reisebranche/transport-luft-land/laudamotion-wachstum-wichtiger-als-gewinn/",
+      "categoryID": 2,
+      "issueID": 4
+    },
+    {
+      "id": 8,
+      "title": "Gepäckkontrolle an Flughäfen : Im Sommer droht ein neues Flughafen-Chaos – Kritik an Sicherheitschecks",
+      "text": "Flughäfen warnen zu Beginn der Sommersaison vor langen Wartezeiten beim Sicherheitscheck. Airports ve …",
+      "sourceName": "Handelsblatt.com",
+      "publicationTime": "2018-05-31T17:19:00.000Z",
+      "URL": "http://www.handelsblatt.com/unternehmen/handel-konsumgueter/gepaeckkontrolle-an-flughaefen-im-sommer-droht-ein-neues-flughafen-chaos/22623644.html",
+      "categoryID": 2,
+      "issueID": 4
+    },
+    {
+      "id": 9,
+      "title": "LH Group darf weiterhin die Distribution Cost Charge erheben",
+      "text": "Die Regeln über einen Verhaltenskodex in Bezug auf Computerreservierungssysteme seien nicht mehr … Move lehnt die Klage der European Travel Agents‘ and Tour Operators‘ Association (ECTAA) gegen die Lufthansa-Gruppe betreffend der Distribution Cost Charge (DCC) ab, wie der Schweizer Reise-Verband mitteilt.  …",
+      "sourceName": "aboutTravel.ch",
+      "publicationTime": "2018-06-10T15:22:00.000Z",
+      "URL": "https://abouttravel.ch/reisebranche/transport-luft-land/lh-group-darf-weiterhin-die-distribution-cost-charge-erheben/",
+      "categoryID": 2,
+      "issueID": 4
+    },
+    {
+      "id": 10,
+      "title": "Mehr Schalter an Passkontrolle des Flughafens Zürich",
+      "text": "Ende Mai konnte der Umbau in der Passkontrollhalle am Flughafen Zürich erfolgreich abgeschlossen werden. Dieser schafft mehr Platz für Passagiere und zusätzliche … Aufgrund der stetig steigenden Passagierzahlen stößt die Passkontrollhalle am Flughafen Zürich zu Spitzenzeiten an ihre Kapazitätsgrenzen. Deshalb hat die Flughafenbetreiberin die Passkontrollhalle …",
+      "sourceName": "aeroTELEGRAPH.com",
+      "publicationTime": "2018-06-09T13:16:00.000Z",
+      "URL": "https://www.aerotelegraph.com/mehr-schalter-an-passkontrolle-des-flughafens-zuerich",
+      "categoryID": 3,
+      "issueID": 4
+    },
+    {
+      "id": 11,
+      "title": "Airliner-Oldie soll bald wieder fliegen",
+      "text": "Der Schweizer Oldie-Airliner Super Constellation ist derzeit in Kloten zur Reparatur. Nach aufwendigen Arbeiten soll die Viermotorige … Auch finanziell ist der Oldtimer nun gerettet. Der blitzsaubere Hangar der Airline Swiss am Flughafen Zürich in Kloten hat etwas von einem überdimensionierten OP-Saal. Aber im übertragenen Sinne sind hier ja …",
+      "sourceName": "Neue Zürcher Zeitung - NZZ.ch",
+      "publicationTime": "2018-05-31T04:08:00.000Z",
+      "URL": "https://www.nzz.ch/panorama/airliner-oldie-soll-bald-wieder-fliegen-ld.1390006",
+      "categoryID": 1,
+      "issueID": 3
+    },
+    {
+      "id": 12,
+      "title": "«Heikel»: Maudet reiste im Privatjet von Teheran nach Genf",
+      "text": "Der Genfer Regierungspräsident Pierre Maudet reist gerne um die Welt. Seine Arrangements sorgen dabei … Umfrage Was halten Sie von Pierre Maudets Flug im Privatjet?\n\nFür den Flug in der Businessklasse und die Übernachtung im Luxushotel zahlte nicht Maudet, sondern ein Geschäftsmann. …",
+      "sourceName": "20minuten.ch",
+      "publicationTime": "2018-05-30T21:27:00.000Z",
+      "URL": "http://www.20min.ch/schweiz/news/story/Staatsrat-Maudet-reiste-im-Privatjet-aus-dem-Iran-21025370",
+      "categoryID": 1,
+      "issueID": 3
+    },
+    {
+      "id": 13,
+      "title": "Kein Preismissbrauch durch Lufthansa",
+      "text": "Gestiegene Ticketpreise waren für den Präsidenten des Kartellamtes ein „Hinweis auf den Missbrauch … Nach der Insolvenz von Air Berlin im Oktober waren viele Lufthansa-Passagiere nicht gut auf die Kranich-Linie zu sprechen: Sie fühlten sich bei den Ticketpreisen über …",
+      "sourceName": "FAZ.NET",
+      "publicationTime": "2018-05-29T17:37:00.000Z",
+      "URL": "http://www.faz.net/-gqe-9ano0",
+      "categoryID": 2,
+      "issueID": 2
+    },
+    {
+      "id": 14,
+      "title": "Wer am richtigen Flughafen startet, spart Zeit und Geld",
+      "text": "Bei der Wahl des Abflugorts lohnt es sich, flexibel zu sein. Denn je nach Destination … Und es muss nicht immer von Zürich aus sein. Bei den Interkontinentalstrecken ist der Flughafen Zürich zwar die erste Wahl. Für europäische Destinationen gibt es inzwischen aber viele Direktflüge von …",
+      "sourceName": "Ktipp.ch",
+      "publicationTime": "2018-05-29T16:26:00.000Z",
+      "URL": "http://www.ktipp.ch/artikel/d/wer-am-richtigen-flughafen-startet-spart-zeit-und-geld",
+      "categoryID": 3,
+      "issueID": 2
+    },
+    {
+      "id": 15,
+      "title": "Felix Werner ab Freitag offiziell bei American Airlines",
+      "text": "Inoffiziell machte die Meldung schon vor zwei Wochen die Runde, jetzt hat sie American Airlines …",
+      "sourceName": "aboutTravel.ch",
+      "publicationTime": "2018-05-29T16:39:00.000Z",
+      "URL": "https://abouttravel.ch/reisebranche/branchen-treff/felix-werner-ab-freitag-offiziell-bei-american-airlines/",
+      "categoryID": 3,
+      "issueID": 2
+    },
+    {
+      "id": 16,
+      "title": "Air Berlin-Pleite: Kein Kartellverfahren gegen Lufthansa wegen hoher Ticketpreise",
+      "text": "Diese stellen die Preise je nach Nachfrage: Sind Flugscheine der billigsten Kategorie schnell vergriffen, gibt …",
+      "sourceName": "Handelsblatt.com",
+      "publicationTime": "2018-05-29T10:26:00.000Z",
+      "URL": "http://www.handelsblatt.com/unternehmen/handel-konsumgueter/air-berlin-pleite-kein-kartellverfahren-gegen-lufthansa-wegen-hoher-ticketpreise/22619598.html",
+      "categoryID": 1,
+      "issueID": 2
+    },
+    {
+      "id": 17,
+      "title": "Bundeskartellamt verschont Lufthansa in der Causa Air Berlin",
+      "text": "Nach der Air-Berlin-Pleite stiegen bei der Lufthansa die Ticketpreise um bis zu 30 Prozent. Das hatte das Kartellamt auf den Plan gerufen. Konsequenzen …",
+      "sourceName": "WELT ONLINE",
+      "publicationTime": "2018-05-29T17:16:00.000Z",
+      "URL": "https://www.welt.de/wirtschaft/article176798300/Lufthansa-Bundeskartellamt-verschont-Airline-vor-Kartellverfahren-wegen-Air-Berlin-Pleite.html",
+      "categoryID": 2,
+      "issueID": 2
+    },
+    {
+      "id": 18,
+      "title": "Viele Airlines gehorchen Peking",
+      "text": "Auf Druck Chinas werden geopolitische Fakten auf den Webseiten zahlreicher Fluggesellschaften kurzerhand umgeschrieben. Das ist nicht unproblematisch.\n\nChina macht politische auch im Luftfahrtsektor Druck: Die Regierung von Xi Jinping hat die chinesische Luftfahrtbehörde angewiesen, dass Airlines, welche nach Taipeh bzw. auf die von China beanspruchte Insel Taiwan fliegen, künftig explizit …",
+      "sourceName": "",
+      "publicationTime": "2018-05-29T08:20:00.000Z",
+      "URL": "https://www.travelnews.ch/flug/8939-viele-airlines-gehorchen-peking.html",
+      "categoryID": 1,
+      "issueID": 2
+    },
+    {
+      "id": 19,
+      "title": "Kartellamt bestätigt Verdacht vieler Passagiere: Lufthansa erhöhte Preise nach Air-Berlin-Pleite drastisch",
+      "text": "Viele Kunden der Lufthansa Börsen-Chart zeigen haben es geahnt, jetzt ist es amtlich: Nach dem Aus für Air Berlin sind Lufthansa-Ticktes deutlich teurer geworden. Im Herbst 2017 seien die Tickets der größten deutschen Fluggesellschaft …",
+      "sourceName": "manager magazin online",
+      "publicationTime": "2018-05-29T12:16:00.000Z",
+      "URL": "http://www.manager-magazin.de/unternehmen/artikel/lufthansa-bundeskartellamt-moniert-preisschub-nach-air-berlin-pleite-a-1210121.html#ref=rss",
+      "categoryID": 2,
+      "issueID": 2
+    },
+    {
+      "id": 20,
+      "title": "A380 fliegt Hamburg bald im Liniendienst an",
+      "text": "Emirates setzt sein Flaggschiff, den A380, ab Oktober im Linienverkehr auf der Strecke von Hamburg nach Dubai … Oktober an setzt die Fluggesellschaft Emirates auf einem ihrer beiden täglichen Direktflüge zwischen dem Flughafen Fuhlsbüttel und Dubai die A380 …",
+      "sourceName": "WELT ONLINE",
+      "publicationTime": "2018-05-29T06:16:00.000Z",
+      "URL": "https://www.welt.de/regionales/hamburg/article176754198/Emirates-Airbus-A380-fliegt-Hamburg-bald-im-Liniendienst-an.html",
+      "categoryID": 3,
+      "issueID": 2
+    },
+    {
+      "id": 2,
+      "title": "Les dernières news Genève",
+      "text": "Selon la compagnie aérienne et la destination, notre enquête montre quels horaires sont à risque. Analyse des deux plus gros opérateurs, EasyJet et Swiss Plus...",
+      "sourceName": "Tribune de Genève Online",
+      "publicationTime": "2018-06-04T08:03:00.000Z",
+      "URL": "https://www.tdg.ch/geneve/actu-genevoise/cher-francois-cher-frere-christ/story/31165844",
+      "categoryID": 1,
+      "issueID": 5
+    }
+  ]
+}

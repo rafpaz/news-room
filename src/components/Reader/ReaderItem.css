@@ -1,0 +1,18 @@
+.reader-item {
+  margin: 5px auto; }
+
+.reader-item-title {
+  font-weight: bold;
+  color: red;
+  font-size: 1.4rem; }
+
+.reader-item-text {
+  margin-bottom: 15px;
+  padding-right: 15px; }
+
+.reader-item-date {
+  margin: 7px 0 20px 0;
+  color: lightgray; }
+
+.reader-item-url {
+  margin-bottom: 45px; }
