@@ -30,6 +30,9 @@ class App extends Component {
         });
     }
 
+    changeApiData(articleID, ){
+
+    }
 
     render() {
         return (

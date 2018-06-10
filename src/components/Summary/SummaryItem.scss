@@ -1,5 +1,24 @@
 .summary-item{
   margin-bottom: 21px;
+  position: relative;
+  span{
+    z-index: 2;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    margin-left: 60px;
+    display: none;
+  }
+}
+
+.summary-item:hover{
+  background-color: #c0c0c0;
+}
+.summary-item:hover span{
+  display: table-cell;
+  button{
+    margin-right: 50px;
+  }
 }
 
 .summary-property{

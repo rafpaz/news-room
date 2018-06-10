@@ -1,3 +1,7 @@
 .category-group-title {
   font-weight: bold;
-  color: red; }
+  color: red;
+  margin-left: -15px;
+  margin-right: -15px;
+  padding-left: 15px;
+  background-color: #d3d3d385; }

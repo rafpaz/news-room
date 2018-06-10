@@ -1,5 +1,21 @@
 .summary-item {
-  margin-bottom: 21px; }
+  margin-bottom: 21px;
+  position: relative; }
+  .summary-item span {
+    z-index: 2;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    margin-left: 60px;
+    display: none; }
+
+.summary-item:hover {
+  background-color: #c0c0c0; }
+
+.summary-item:hover span {
+  display: table-cell; }
+  .summary-item:hover span button {
+    margin-right: 50px; }
 
 .summary-property {
   font-size: 10px;

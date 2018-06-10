@@ -21,6 +21,8 @@ class ReaderItem extends Component {
     }
 }
 
-ReaderItem.propTypes = {};
+ReaderItem.propTypes = {
+    item: PropTypes.object,
+};
 
 export default ReaderItem;
