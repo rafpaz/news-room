@@ -8,8 +8,29 @@ class SummaryItem extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            showModal: false
+            showModal: false,
+            open: false
         }
+        this.onOpenModal = this.onOpenModal.bind(this);
+        this.onCloseModal = this.onCloseModal.bind(this);
+    }
+
+    onOpenModal(){
+        this.setState({
+            showModal: true,
+            open: true
+        });
+    }
+
+    onCloseModal(){
+        this.setState({
+            open: false
+        });
+        setTimeout(() => {
+            this.setState({
+                showModal: false
+            });
+        }, 1000);
     }
 
 
@@ -36,26 +57,16 @@ class SummaryItem extends Component {
                     <button className={"btn btn-sm"}>
                         <i className="fas fa-cogs"/>
                     </button>
-                    <button className={"btn btn-sm"} data-toggle="modal" data-target="#myModal">
+                    <button className={"btn btn-sm"} onClick={this.onOpenModal}>
                         <i className="fas fa-search-plus"/>
                     </button>
                 </span>
-                <div className="modal fade" id="myModal">
-                    <div className="modal-dialog">
-                        <div className="modal-content">
-                            <div className="modal-header">
-                                <h4 className="modal-title">Modal Heading</h4>
-                                <button type="button" className="close" data-dismiss="modal">&times;</button>
-                            </div>
-                            <div className="modal-body">
-                                Modal body..
-                            </div>
-                            <div className="modal-footer">
-                                <button type="button" className="btn btn-danger" data-dismiss="modal">Close</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                {this.state.showModal &&
+                    <ItemModal
+                        open={this.state.open}
+                        onCloseModal={this.onCloseModal}
+                    />
+                }
             </div>
         );
     }
