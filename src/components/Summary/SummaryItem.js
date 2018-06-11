@@ -65,6 +65,7 @@ class SummaryItem extends Component {
                     <ItemModal
                         open={this.state.open}
                         onCloseModal={this.onCloseModal}
+                        modalData={this.props.item}
                     />
                 }
             </div>
