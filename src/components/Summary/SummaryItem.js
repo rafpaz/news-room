@@ -57,7 +57,7 @@ class SummaryItem extends Component {
     }
 
     onPropertyChangeClick(){
-        this.props.changeFunc(5, "category", 1)
+        this.props.changeFunc(this.props.item.id);
     }
 
     render() {
