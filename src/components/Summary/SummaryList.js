@@ -5,10 +5,11 @@ import './SummaryList.css';
 
 class SummaryList extends Component {
     render() {
-        var items = this.props.articles.map((item, i) => {
+        let items = this.props.articles.map((item, i) => {
             return (
               <SummaryItem
                 item={item}
+                changeFunc={this.props.changeFunc}
                 key={i}
               />
             );
@@ -25,6 +26,7 @@ class SummaryList extends Component {
 SummaryList.propTypes = {
     articles: PropTypes.array,
     catName: PropTypes.string,
+    changeFunc: PropTypes.func,
 };
 
 export default SummaryList;

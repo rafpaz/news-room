@@ -10,6 +10,7 @@ class Summary extends Component {
                 <SummaryList
                     articles={item.articles}
                     catName={item.name}
+                    changeFunc={this.props.changeFunc}
                     key={"list-group-" + i}
                 />
             )
@@ -44,6 +45,7 @@ class Summary extends Component {
 
 Summary.propTypes = {
     data: PropTypes.array,
+    changeFunc: PropTypes.func,
 };
 
 export default Summary;
